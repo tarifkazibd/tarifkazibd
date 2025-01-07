@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarifkazibd" alt="tarifkazibd" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tarifkazibd" target="blank"><img src="https://img.shields.io/twitter/follow/tarifkazibd?logo=twitter&style=for-the-badge" alt="tarifkazibd" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/tarifkazibd" target="blank"><img src="https://img.shields.io/twitter/follow/tarifkazibd?logo=twitter&style=for-the-badge" alt="tarifkazibd" /></a> </p>-->
 
 - 🔭 I’m currently working on **Flutter Development**
 
